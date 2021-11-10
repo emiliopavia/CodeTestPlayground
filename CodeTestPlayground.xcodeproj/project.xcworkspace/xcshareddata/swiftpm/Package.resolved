@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CodeTest",
+        "repositoryURL": "https://github.com/emiliopavia/CodeTest",
+        "state": {
+          "branch": "main",
+          "revision": "561d6bf580f494729afc7ea1380bafc12735761b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
